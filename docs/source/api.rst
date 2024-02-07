@@ -1,7 +1,8 @@
 API
 ===
 
-.. toctree::
-   :maxdepth: 4
-
-   wordtm
+.. automodule:: wordtm
+    :members:
+    :undoc-members:
+    :inherited-members:
+    :show-inheritance:
