@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'WordTM'
+copyright = '2024, Johnny Cheng'
+author = 'Johnny Cheng'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.4'
+version = '0.4.6'
 
 # -- General configuration
 
@@ -17,6 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.napoleon',
 ]
 
 intersphinx_mapping = {
