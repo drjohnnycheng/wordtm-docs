@@ -11,4 +11,4 @@ Welcome to WordTM's documentation!
    :caption: Contents:
 
    usage
-   api
+   wordtm
