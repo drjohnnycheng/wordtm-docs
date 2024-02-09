@@ -12,5 +12,3 @@ Welcome to WordTM's documentation!
 
    usage
    wordtm
-
-.. include:: wordtm.rst
