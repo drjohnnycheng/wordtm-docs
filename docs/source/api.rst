@@ -1,7 +1,7 @@
 API
 ===
 
-.. automodule::
-   :toctree: generated
+.. toctree::
+   :maxdepth: 4
 
    wordtm
