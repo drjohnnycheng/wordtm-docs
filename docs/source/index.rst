@@ -8,9 +8,7 @@ Welcome to WordTM's documentation!
 
 .. toctree::
    :maxdepth: 4
-   :caption: Contents:
+   :caption: Contents
 
    usage
-   wordtm
-
-.. include:: wordtm.rst
+   api
