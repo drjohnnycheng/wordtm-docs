@@ -1,4 +1,4 @@
-cwordtm 0.5.0
+wordtm 0.4.6
 =============
 
 A topic modeling toolkit on the Holy Scripture and other text
@@ -9,7 +9,7 @@ Installation
 
 .. code:: shell
 
-   $ pip install cwordtm
+   $ pip install wordtm
 
 Usage
 -----
@@ -20,7 +20,7 @@ topic modeling (BERTopic, LDA and NMF) as follows:
 
 .. code:: python
 
-   from cwordtm import meta, util, ta, tm, viz, pivot, quot
+   from wordtm import meta, util, ta, tm, viz, pivot, quot
 
 version Submodule
 ~~~~~~~~~~~~~~~~~
@@ -29,7 +29,7 @@ Provides some version information.
 
 .. code:: python
 
-   import cwordtm
+   import wordtm
    print(cwordtm.__version__)
 
 meta Submodule
@@ -131,10 +131,10 @@ contributing to this project, you agree to abide by its terms.
 License
 -------
 
-``cwordtm`` was created by Johnny Cheng. It is licensed under the terms
+``wordtm`` was created by Johnny Cheng. It is licensed under the terms
 of the MIT license.
 
 Credits
 -------
 
-``cwordtm`` was created under the guidance of Jehovah, the Lord.
+``wordtm`` was created under the guidance of Jehovah, the Lord.
